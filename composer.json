@@ -1,0 +1,21 @@
+{
+    "name": "majkel/lambdon",
+    "description": "Functional Brother of Lemon",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Majkel\\Lambdon\\": "src/"
+        },
+        "files": [
+            "src/Functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "TENMAJKL",
+            "email": "tenmajkl@proton.me"
+        }
+    ],
+    "require": {}
+}
