@@ -1,4 +1,4 @@
-# Lambdon
+# Lambdon λ(🍋)
 
 Experimental brother of Lemon that Lemon pretends he doesn't know lol. Yeah hasicaly simple functional framework for php
 
